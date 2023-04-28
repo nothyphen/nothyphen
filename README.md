@@ -11,3 +11,14 @@
 ## تماس با من ☎️
 <a href="https://www.instagram.com/itskaptain"><img src="https://github.com/nothyphen/nothyphen/blob/main/imges/icons8-instagram-100.png?raw=true"></a>
 <a href="https://t.me/badkaptain"><img src="https://github.com/nothyphen/nothyphen/blob/main/imges/icons8-telegram-100.png?raw=true"></a>
+
+## میزان مهارت ☄️
+<h3 aligh="left"> Python | 85 %</h3> <img src="https://github.com/nothyphen/nothyphen/blob/main/imges/bar.png?raw=true" height="16px" witdh="425px">
+
+<h3 aligh="left"> Dango | 70 %</h3> <img src="https://github.com/nothyphen/nothyphen/blob/main/imges/bar.png?raw=true" height="16px" witdh="350px">
+
+<h3 aligh="left"> Flask | 65 %</h3> <img src="https://github.com/nothyphen/nothyphen/blob/main/imges/bar.png?raw=true" height="16px" witdh="325px">
+
+<h3 aligh="left"> Ruby | 40 %</h3> <img src="https://github.com/nothyphen/nothyphen/blob/main/imges/bar.png?raw=true" height="16px" witdh="200px">
+
+<h3 aligh="left"> MySql | 50 %</h3> <img src="https://github.com/nothyphen/nothyphen/blob/main/imges/bar.png?raw=true" height="16px" witdh="250px">
