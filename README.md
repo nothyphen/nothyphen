@@ -10,4 +10,4 @@
 
 ## تماس با من ☎️
 <a href="https://www.instagram.com/itskaptain"><img src="https://github.com/nothyphen/nothyphen/blob/main/imges/icons8-instagram-30.png?raw=true"></a>
-<a href="https://t.me/badkaptain"><img src="https://github.com/nothyphen/nothyphen/blob/main/imges/icons8-telegram-48.png?raw=true"></a>
+<a href="https://t.me/badkaptain"><img src="https://github.com/nothyphen/nothyphen/blob/main/imges/icons8-telegram-100.png?raw=true"></a>
