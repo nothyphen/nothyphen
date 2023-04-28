@@ -21,4 +21,4 @@
 
 <h3 aligh="left"> Ruby | 40 %</h3> <img src="https://github.com/nothyphen/nothyphen/blob/main/imges/bar.png?raw=true" height="16px" width="200px">
 
-<h3 aligh="left"> MySql | 50 %</h3> <img src="https://github.com/nothyphen/nothyphen/blob/main/imges/bar.png?raw=true" height="16px" witdh="250px">
+<h3 aligh="left"> MySql | 50 %</h3> <img src="https://github.com/nothyphen/nothyphen/blob/main/imges/bar.png?raw=true" height="16px" width="250px">
