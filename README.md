@@ -15,6 +15,8 @@
 ## میزان مهارت ☄️
 <h3 aligh="left"> Python | 85 %</h3> <img src="https://github.com/nothyphen/nothyphen/blob/main/imges/bar.png?raw=true" height="16px" width="425px">
 
+<h3 aligh="left"> Golang | 50 %</h3> <img src="https://github.com/nothyphen/nothyphen/blob/main/imges/bar.png?raw=true" height="16px" width="250px">
+
 <h3 aligh="left"> Dango | 70 %</h3> <img src="https://github.com/nothyphen/nothyphen/blob/main/imges/bar.png?raw=true" height="16px" width="350px">
 
 <h3 aligh="left"> Flask | 65 %</h3> <img src="https://github.com/nothyphen/nothyphen/blob/main/imges/bar.png?raw=true" height="16px" width="325px">
